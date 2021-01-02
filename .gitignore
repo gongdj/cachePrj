@@ -1,0 +1,8 @@
+.settings/
+target/
+build/
+bin/
+classes/
+tags
+*.aof
+*.rdb
